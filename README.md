@@ -207,7 +207,7 @@ footer {
 </section>
 
 <section class="contact" id="contact">
-    <h2>Contact Us</h2>
+    <h2>Contact Us 9886483698 9448477226 9742653013</h2>
 
     <form onsubmit="submitForm(event)">
         <input type="text" placeholder="Your Name" required>
